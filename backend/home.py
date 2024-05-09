@@ -1,0 +1,2 @@
+a="Welcome"
+print(a)
